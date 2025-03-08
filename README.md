@@ -28,4 +28,4 @@ Open your browser and navigate to `http://localhost:3000`. You should see your d
 
 4. **View your application with infite-scrolling:**
 
-Open your browser and navigate to `http://localhost:3000/infinite-scrolling`. You should see your data table with pagination and search functionality.
+Open your browser and navigate to `http://localhost:3000/infinite-table`. You should see your data table with pagination and search functionality.
