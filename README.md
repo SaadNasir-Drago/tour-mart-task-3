@@ -22,6 +22,6 @@ npm run dev
 ```
 
 
-9. **View your application:**
+4. **View your application:**
 
 Open your browser and navigate to `http://localhost:3000`. You should see your data table with pagination and search functionality.
