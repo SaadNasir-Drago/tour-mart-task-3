@@ -25,3 +25,7 @@ npm run dev
 4. **View your application:**
 
 Open your browser and navigate to `http://localhost:3000`. You should see your data table with pagination and search functionality.
+
+4. **View your application with infite-scrolling:**
+
+Open your browser and navigate to `http://localhost:3000/infinite-scrolling`. You should see your data table with pagination and search functionality.
